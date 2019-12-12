@@ -7,3 +7,5 @@ Before running the neural network, the data is pre-processed, which includes con
 The neural network is trained using different activation functions such as sigmoid, tanh & ReLU. Training and testing error sum for different activation functions is calculated and compared to get the best activation function on the given dataset. 
 
 Hyperparameters used: Learning rate, Max iterations, Train-test data percentage split
+
+For more information on the final results, please take a look at "Assignment 2 Programming Part Report.pdf".
