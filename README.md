@@ -8,7 +8,7 @@ The neural network is trained using different activation functions such as sigmo
 
 Hyperparameters used: Learning rate, Max iterations, Train-test data percentage split
 
-For more information on the final results, please take a look at "Assignment 2 Programming Part Report.pdf".
+For more information on the final results, please take a look at "Report.pdf".
 
 # Steps to run the file
 
